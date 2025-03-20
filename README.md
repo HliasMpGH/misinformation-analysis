@@ -4,7 +4,7 @@ This repository provides a Python-based analysis inspired by the study "[Differe
 
 ## Data
 
-The analysis utilizes a dataset detailing user sharing behaviors on the X (old Twitter) platform during the 2020 U.S. presidential election. These dataset is accessible [here](analysis/mosleh_et_al_data.csv).
+The analysis utilizes a dataset detailing user sharing behaviors on the X (old Twitter) platform during the 2020 U.S. presidential election. The dataset is accessible [here](analysis/mosleh_et_al_data.csv).
 
 
 ## Requirements
